@@ -1,3 +1,5 @@
+# Based on
+# https://github.com/Carterbouley/ElectricityPricePrediction
 # Day Ahead Electricity Price Prediction
 This project is the final project following the Data Science track at Flatiron School.
 
